@@ -3,6 +3,7 @@
 Refrence: https://github.com/VctrySam/Tinder
 
 # Launch Tinder
-- Clone
-- Npm install in terminal
-- Run on IOS simulator or Android emulator
+- git clone https://github.com/ankittyagi/TinderWithBack.git Tinder
+- cd Tinder
+- npm install
+- react-native run-ios
